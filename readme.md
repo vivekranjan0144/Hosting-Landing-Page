@@ -1,17 +1,19 @@
 # HTML-CSS PROJECT-11
 
-This is Hosting Landing Page project made with technology HTML & CSS.
-I haven't made it responsive it only works in desktop/laptop screen.
-I will make it responsive ASAP.
-
+This is Hosting Landing Page project made with technology HTML & CSS. I have made it responsive it works in both desktop screen and mobile screen.
 
 ## 🛠 Technologies Used
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Demo
+## Demo Video in Desktop Screen
 
+
+
+## Demo Video in Mobile Screen
+
+https://user-images.githubusercontent.com/100980716/223020857-c8905376-39d4-43b3-b5d9-02e4a94f02be.mp4
 
 ## Honest Time to finish the project
 
